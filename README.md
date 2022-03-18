@@ -1,7 +1,12 @@
 # MemeCraft
 
 **Authors**: Brady Camp, Harvey Francois, Jeffrey Jenkins, Micha Davis, Michael Campbell
+
 **Version**: 1.4.0
+
+[**Front-end Repo**](https://github.com/jeffreyjtech/meme-craft-frontend)
+
+[**Documents Repo**](https://github.com/jeffreyjtech/meme-craft-documents)
 
 ## Overview
 
